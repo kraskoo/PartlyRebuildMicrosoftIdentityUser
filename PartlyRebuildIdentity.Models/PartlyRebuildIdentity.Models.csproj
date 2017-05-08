@@ -51,12 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationUserIdentity.cs" />
-    <Compile Include="Idenity\Claim.cs" />
-    <Compile Include="Idenity\IdentityApplicationUser.cs" />
-    <Compile Include="Idenity\IdentityRoleInner.cs" />
-    <Compile Include="Idenity\IdentityUserRoleInner.cs" />
-    <Compile Include="Idenity\Login.cs" />
-    <Compile Include="Idenity\Role.cs" />
+    <Compile Include="Identity\Claim.cs" />
+    <Compile Include="Identity\IdentityApplicationUser.cs" />
+    <Compile Include="Identity\IdentityRoleInner.cs" />
+    <Compile Include="Identity\IdentityUserRoleInner.cs" />
+    <Compile Include="Identity\Login.cs" />
+    <Compile Include="Identity\Role.cs" />
     <Compile Include="Interfaces\IClaim.cs" />
     <Compile Include="Interfaces\IIdentityApplicationUser.cs" />
     <Compile Include="Interfaces\IIdentityUser.cs" />

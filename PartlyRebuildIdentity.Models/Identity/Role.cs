@@ -1,4 +1,4 @@
-﻿namespace PartlyRebuildIdentity.Models.Idenity
+﻿namespace PartlyRebuildIdentity.Models.Identity
 {
     using Interfaces;
     using MSAspId = Microsoft.AspNet.Identity;

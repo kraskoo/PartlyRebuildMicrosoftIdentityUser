@@ -1,4 +1,4 @@
-﻿namespace PartlyRebuildIdentity.Models.Idenity
+﻿namespace PartlyRebuildIdentity.Models.Identity
 {
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.EntityFramework;

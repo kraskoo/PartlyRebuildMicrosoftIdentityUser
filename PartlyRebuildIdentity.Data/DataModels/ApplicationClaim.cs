@@ -1,7 +1,7 @@
 ﻿namespace PartlyRebuildIdentity.Data.DataModels
 {
     using System;
-    using Models.Idenity;
+    using Models.Identity;
 
     public class ApplicationClaim : Claim<Guid>
     {

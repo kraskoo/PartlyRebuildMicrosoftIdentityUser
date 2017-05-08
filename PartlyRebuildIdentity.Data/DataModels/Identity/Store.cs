@@ -7,7 +7,7 @@
     using System.Threading.Tasks;
     using Microsoft.AspNet.Identity;
     using Intefaces.IdentityStores;
-    using Models.Idenity;
+    using Models.Identity;
 
     public abstract class Store<TUser, TRole, TKey, TUserLogin, TUserRole, TUserClaim> :
         IIdentityLoginStore<TUser, TKey>,
